@@ -7,8 +7,8 @@ description: "Animiojo. Resumo de episódios de animes em 3 minutos."
 <section class="mt-4 mb-5">
 <div class="container-fluid">
     
-    <div class="card-columns">        
-        {% for post in paginator.posts reversed %}
+    <div class="row row-cols-5 row-cols-sm-1 row-cols-md-2  row-cols-lg-4  row-cols-xl-5">
+        {% for post in paginator.posts %}
             {% include card-post.html %}
         {% endfor %}            
     </div>
