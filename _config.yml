@@ -1,7 +1,7 @@
 # Site
 name: 'Animiojo'
 description: 'Animiojo. Resumo de episódios de animes em 3 minutos.'
-logo: 'assets/images/animiojo/animiojo_2025_88.png'
+logo: 'assets/images/animiojo/animiojo_banner.png'
 favicon: 'assets/images/animiojo/animiojo_2025_180.png'
 baseurl: ''
 host: 'www.animiojo.com'
